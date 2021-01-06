@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import nmap
-import socket
 
 scanner=nmap.PortScanner()
 
